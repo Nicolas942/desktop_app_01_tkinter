@@ -24,6 +24,13 @@ ventana_principal.title("Nicolas Alfonso Cabrera Suarez")
 #tamaño de la ventana 
 ventana_principal.geometry("800x500")
 
+# Deshabilitar boton de maximizar
+ventana_principal.resizable(0,0)
+
+# color de fondo
+ventana_principal.config(bg="darck yellow")
+
 # Metodo principal que despliega la ventana en pantalla 
 
 ventana_principal.mainloop()
+
