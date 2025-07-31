@@ -1,2 +1,2 @@
-# deskop_app_01_tkinter
+# desktop_app_01_tkinter
 Aplicación  
